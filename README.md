@@ -3,21 +3,28 @@
 </div>
 <h1 align="left">Hey 👋 What's up?</h1>
 
+
 ###
 
 <p align="left">My name is Ashutosh and I'm a 3rd Year Student from IGIT,Sarang</p>
 
 ###
+<div align="center">
+  <img height="50" width="1000" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  />
+</div>
 
 <h2 align="left">About me</h2>
+<span style="display:inline-block;">
+  <img align="right" height="150" width="170" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif"  />
 
 ###
 
 <p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Data Structure and Algorithm<br>🎯 Goals: SDE<br>🎲 Fun fact:</p>
 
+
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I Code with</h2>
 
 ###
 
@@ -63,16 +70,9 @@
 <img src="https://raw.githubusercontent.com/ashu15311/ashu15311/output/snake.svg" alt="Snake animation" />
 
 ###
-
-
-
-###
-
 <div align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif"  />
+  <img height="2" width=1000 src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
 </div>
-
-###
 
 <div align="center">
   <img height="303" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif"  />
@@ -86,9 +86,7 @@
 
 ###
 
-<div align="center">
-  <img height="30" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
-</div>
+
 
 ###
 
@@ -98,9 +96,7 @@
 
 ###
 
-<div align="center">
-  <img height="30" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  />
-</div>
+
 
 
 ```diff
